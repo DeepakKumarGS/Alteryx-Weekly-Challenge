@@ -4,5 +4,6 @@
 
 Solution:
 
-![image](https://user-images.githubusercontent.com/29754057/113469972-7929df00-946f-11eb-8c65-e0f8261768cb.png)
+![image](https://user-images.githubusercontent.com/29754057/113470126-b773ce00-9470-11eb-88bc-de273d53acd7.png)
+
 
