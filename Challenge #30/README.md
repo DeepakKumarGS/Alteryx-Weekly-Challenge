@@ -4,6 +4,6 @@
 
 Solution:
 
-![image](Challenge 30.jpg)
+![image](Challenge%2030.jpg)
 
 
