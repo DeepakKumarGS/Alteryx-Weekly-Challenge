@@ -14,6 +14,7 @@ The challenges are not in weekly order and I have solved mostly intermediate and
 Challenge #| My Solution |Level of difficulty| Techniques Applied
 |:-----------: | :-----------: | :---------: | :---------: |
  [Challenge #5](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-5-HR-Position-Finder-Application/td-p/36732) | [Alteryx Flow](https://github.com/DeepakKumarGS/Alteryx-Weekly-Challenge/tree/master/Challenge%20%235)|Intermediate|Analytical app,joins
+[Challenge #7](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-7-Download-Data-and-Parse-JSON/td-p/36734) | [Alteryx Flow](https://github.com/DeepakKumarGS/Alteryx-Weekly-Challenge/tree/master/Challenge%20%237)|Advanced|JSON Parse,Cross Tab
  [Challenge #29](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-29-Alteryx-16-Grand-Prix-Race1-L1/m-p/36432) | [Alteryx Flow](https://github.com/DeepakKumarGS/Alteryx-Weekly-Challenge/tree/master/Challenge%20%2329)|Intermediate|Dynamic rename,union,joins
 [Challenge #30](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-30-Alteryx-16-Grand-Prix-Race-1-L2/td-p/36433)| [Alteryx Flow](https://github.com/DeepakKumarGS/Alteryx-Weekly-Challenge/tree/master/Challenge%20%2330)|Begineer|Summarize,transpose,pearson correlation
 [Challenge #31](https://community.alteryx.com/t5/Weekly-Challenge/Challenge-31-Alteryx-16-Grand-Prix-Race-2-L1/m-p/36434)| [Alteryx Flow](https://github.com/DeepakKumarGS/Alteryx-Weekly-Challenge/tree/master/Challenge%20%2331)|Intermediate|Dynamic rename,select records
